@@ -1,0 +1,18 @@
+{
+  "name": "auto-car-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "axios": "^1.7.4",
+    "vite": "^5.4.0",
+    "vue": "^3.4.38",
+    "vue-router": "^4.4.3",
+    "vue3-google-login": "^2.1.4"
+  }
+}
